@@ -1,7 +1,10 @@
 # Hyunjun_Land
 2학년 1학기 개인 프로젝트 (C++)  
+
 게임 제목: HyunjunLand  
+
 게임 장르: 인디언 포커  
+
 게임 설명: 현준과 인디언 포커에서 승리하여 현준랜드를 인수하자!  
 
 <img src="https://user-images.githubusercontent.com/101493216/214754120-7c6e941d-a27b-496a-91e4-6e97d4ee519d.png" width="70%" height="70%">
